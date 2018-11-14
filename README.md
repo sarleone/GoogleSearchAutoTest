@@ -20,3 +20,4 @@ A page highlight one ‘funny cat’ video along with a list of other related vi
 ##### Enter 'npm install --save nightmare' to install the testing software.
 ##### Once installed, enter 'node GoogleSearchTest.js'.
 ##### Once the testing is complete you should see 'Done!' appear in terminal.
+##### Check your GoogleSearchAutoTest folder to see the screenshots taken of the search and results during testing (should be 3 total).

@@ -5,7 +5,7 @@ Created an automated test of a Google Search using Nightmare
 #### Title: 
 Google Search -- Searching for a funny cat video on Google 
 #### Description: 
-Any user should be able to successfully find an array of video with funny cats.
+Any user should be able to successfully find a list of videos with funny cats.
 #### Test Steps:
 1. Navigate to google.com
 2. In the search bar, enter the term ‘funny cats’.

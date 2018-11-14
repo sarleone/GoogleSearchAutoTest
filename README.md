@@ -15,8 +15,8 @@ Any user should be able to successfully find an array of video with funny cats.
 A page highlight one ‘funny cat’ video along with a list of other related videos.
 
 ## How to run this test
-Clone files to your computer.
-Go to GoogleSearchAutoTest folder in terminal.
-Enter 'npm install --save nightmare' to install the testing software.
-Once installed, enter 'node GoogleSearchTest.js'.
-Once the testing is complete you should see 'Done!' appear in terminal.
+##### Clone files to your computer.
+##### Go to GoogleSearchAutoTest folder in terminal.
+##### Enter 'npm install --save nightmare' to install the testing software.
+##### Once installed, enter 'node GoogleSearchTest.js'.
+##### Once the testing is complete you should see 'Done!' appear in terminal.

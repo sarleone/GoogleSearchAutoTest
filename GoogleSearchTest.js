@@ -1,11 +1,11 @@
 var Nightmare = require("nightmare");
 
 new Nightmare({ show: true })
-  // Visit login page
+  // Visit Google page
   .goto("https://www.google.com/")
   // Enter search topic.
   .type(".gLFyf.gsfi", "funny cats")
-  // Take a screenshot of the login form.
+  // Take a screenshot of the search.
   .screenshot("search.png")
   // Wait for it
   .wait(500)

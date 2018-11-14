@@ -12,7 +12,7 @@ Any user should be able to successfully find a list of videos with funny cats.
 3. Click ‘Enter’
 
 #### Expected Result: 
-A page highlight one ‘funny cat’ video along with a list of other related videos.
+A page highlighting one ‘funny cat’ video along with a list of other related videos.
 
 ## How to run this test
 ##### Clone files to your computer.
